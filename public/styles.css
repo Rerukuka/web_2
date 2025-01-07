@@ -29,7 +29,7 @@ body {
     padding: 15px;
     border: 1px solid #ddd;
     border-radius: 8px;
-    background: #fafafa;
+    background: #ff0000;
   }
   
   #weather h2, #news h2, #currency h2 {
@@ -46,7 +46,7 @@ body {
   #news p {
     margin: 10px 0;
     padding: 10px;
-    background: #e9ecef;
+    background: linear-gradient(135deg, #74ebd5, #acb6e5);
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
